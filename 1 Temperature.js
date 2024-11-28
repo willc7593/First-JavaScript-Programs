@@ -101,7 +101,7 @@ console.log(`Thank you for using this program, ${Name}!`) // The final message t
 
 /* Some notes:
 - Because of the nature of choosing the temperature, you may get some hilariously ridiculous results
-- There are a couple of name recognition outcomes, I recommend trying "Will" (Me), "Dr. Kelvin" (The scientist using the program), and Mr. Vatougios (The teacher who's definetly reading this)
+- There are a couple of name recognition outcomes, I recommend trying "Will" (Me), "Dr. Kelvin" (The scientist using the program), and Mr. *omitted* (The teacher who's definetly reading this)
 - A list of the key syntax concepts can be found at the top 
 - Because this script uses prompts, it is unusable in ReplIt, only jsconsole
 */
